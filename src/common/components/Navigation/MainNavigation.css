@@ -1,0 +1,14 @@
+.mainnav-title {
+  color: black;
+}
+
+
+.mainnav-title a {
+  text-decoration: none;
+  transition: color .2s ease-out;
+  color: grey;
+}
+.mainnav-title a:hover {
+  color: blue;
+}
+
