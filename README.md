@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# CollegeProject
+# Picpot
 =======
 # Getting Started with Create React App
 
